@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed  
 
-<!--
-**MohamedAbouzid1/MohamedAbouzid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently finishing my **Master’s degree in Bioinformatics** and actively looking for opportunities as a **Software Developer**.  
+💻 Passionate about building clean, scalable, and efficient software solutions.  
+📚 Always eager to learn, collaborate, and contribute to impactful projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🌍 Based in: Hamburg, Germany
+- 🔭 Interests: Backend development, cloud technologies, and open-source contributions  
+- ✨ Strengths: Problem-solving, teamwork, and writing maintainable code  
+
+---
+
+## ⚒️ Tech Stack
+Here are some tools and technologies I work with:
+
+- **Languages:** Java, Python, JavaScript/TypeScript,   
+- **Frameworks & Libraries:** Node.js, Spring Boot,   
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools & Platforms:** Git, Docker  
+
+
+---
+
+## 📫 Get in Touch
+- 💼 [LinkedIn]([https://www.linkedin.com/in/mohamed-abouzid/])  
+- 🌐   
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
