@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Abouzid  
+# 👋 Hi, I'm Mohamed  
 
 🎓 Currently finishing my **Master’s degree in Bioinformatics** and actively seeking opportunities as a **Software Developer**.  
 💻 Passionate about building clean, scalable, and efficient software solutions.  
