@@ -20,11 +20,12 @@
 
 ## ⚒️ Tech Stack  
 
-### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+### 🚀 Languages<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55"/>
+</p>
 
 ### 📚 Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
