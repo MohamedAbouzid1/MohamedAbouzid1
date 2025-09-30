@@ -11,21 +11,15 @@
 - 🔭 Interests: Backend development, cloud technologies, and open-source contributions  
 - ✨ Strengths: Problem-solving, teamwork, and writing maintainable code  
 
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abouzid/)  
-
----
 
 ## ⚒️ Tech Stack  
 
-### 🚀 Languages<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55"/>
-</p>
+### 🚀 Languages
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+
 
 ### 📚 Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
@@ -39,3 +33,10 @@
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abouzid/)  
+
+---
