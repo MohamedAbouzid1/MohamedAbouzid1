@@ -18,7 +18,6 @@
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 
 
 ### 📚 Frameworks & Libraries
