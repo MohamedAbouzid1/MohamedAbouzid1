@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Mohamed  
 
-🎓 Currently finishing my **Master’s degree in Bioinformatics** and actively seeking opportunities as a **Software Developer**.  
+🎓 I hold a **Master’s degree in Bioinformatics** and currently work as a **Software Developer**.  
 💻 Passionate about building clean, scalable, and efficient software solutions.  
 🚀 Always eager to learn, collaborate, and contribute to impactful projects.  
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 - 🌍 Based in: Hamburg, Germany  
 - 🔭 Interests: Backend development, cloud technologies, and open-source contributions  
 - ✨ Strengths: Problem-solving, teamwork, and writing maintainable code  
 
 
-## ⚒️ Tech Stack  
+## Tech Stack  
 
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
