@@ -7,7 +7,7 @@
 ---
 
 ## About Me
-- 🌍 Based in: Hamburg, Germany  
+- 🌍 Based in: Germany  
 - 🔭 Interests: Backend development, cloud technologies, and open-source contributions  
 - ✨ Strengths: Problem-solving, teamwork, and writing maintainable code  
 
