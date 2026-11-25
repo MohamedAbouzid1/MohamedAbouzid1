@@ -1,26 +1,23 @@
-# 👋 Hi, I'm Mohamed  
+# Hi, I'm Mohamed  
 
 I hold a **Master’s degree in Bioinformatics** and currently work as a **Software Developer** at Forschungszentrum Jülich.  
-Passionate about building clean, scalable, and efficient software solutions.  
-Always eager to learn, collaborate, and contribute to impactful projects.  
+Passionate about building clean, data-driven software solutions.  
 
 ---
-
-## About Me
 - Based in: Germany  
-- Interests: Backend development, cloud technologies, and open-source contributions  
+- Interests: Backend development and open-source contributions  
 
 ## Tech Stack  
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 
-
-### Frameworks & Libraries
+### Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-darkgreen?logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
